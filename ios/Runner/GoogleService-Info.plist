@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>309704770744-dt46em4vo0tmqtqsra2mgs6d9aljel2i.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.309704770744-dt46em4vo0tmqtqsra2mgs6d9aljel2i</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>309704770744-kljuep9j6sckat7ddstn5q7346fuvq4b.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAUO8M4kpjXgyQQNstWGtYg7W44Qx3cFQI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>309704770744</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.chat1</string>
+	<key>PROJECT_ID</key>
+	<string>teschatt1</string>
+	<key>STORAGE_BUCKET</key>
+	<string>teschatt1.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:309704770744:ios:d833bf59d881c1a559204d</string>
+	<key>DATABASE_URL</key>
+	<string>https://teschatt1-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>
